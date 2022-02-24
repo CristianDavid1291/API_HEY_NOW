@@ -1,0 +1,170 @@
+[  {
+    "mode": "NULLABLE",
+    "name": "ip",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "data_index",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "data_type",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "data_id",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "data_score",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "data_source_abandoned",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "data_source_beginSession",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "data_source_channel",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "data_source_channelContext",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "data_source_clientId",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "data_source_companyId",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "data_source_contact_id",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "data_source_contact_creationDate",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "data_source_contact_first_name",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "data_source_contact_gender",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "data_source_contact_lastUpdate",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "data_source_contact_last_name",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "data_source_contact_locale",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "data_source_contact_profile_pic",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "data_source_contact_timezone",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "data_source_contactLastInteractionDate",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "data_source_endSession",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "data_source_firstIncomingMessage",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "data_source_messages_incomingMessages",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "data_source_messages_outcomingMessages",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "data_source_messages_totalMessages",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "data_source_platformId",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "data_source_session",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "data_source_sessionLength",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "data_source_startPannelDate",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "data_source_versions_chat",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "data_source_versions_contact",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "data_source_versions_messages",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "data_source_versions_steps",
+    "type": "STRING"
+  } ]

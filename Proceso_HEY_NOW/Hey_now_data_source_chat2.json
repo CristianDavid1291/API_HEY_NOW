@@ -1,0 +1,100 @@
+[  {
+    "mode": "NULLABLE",
+    "name": "ip",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "data_id",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "Hey",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "id",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "ability",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "billing",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "idAgent",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "idMessageHey",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "contactId",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "date",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "endSession",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "incoming",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "lastUpdate",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "message",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "metaData_channelStatus_deliveredStatus",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "metaData_channelStatus_deliveredStatusCode",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "metaData_channelStatus_sentStatus",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "metaData_channelStatus_sentStatusCode",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "metaData_status",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE",
+    "name": "sequence",
+    "type": "STRING"
+  } ]
